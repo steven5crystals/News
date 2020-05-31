@@ -55,7 +55,7 @@ struct ContentView: View {
                 }
                 
                 //To set the title of the navigation bar
-            }.navigationBarTitle("Headlines")
+            }.navigationBarTitle("News")
      }
    }
  }
